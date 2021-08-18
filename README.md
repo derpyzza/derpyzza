@@ -1,7 +1,4 @@
-hello! im derpyzza, a 16yo artist who's learning to program!
-i currently know C and javascript.
-
-uh that's it really
+hello! im derpyzza, i make stuff, which you can find here :)
 
 <!---
 derpyzza/derpyzza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
