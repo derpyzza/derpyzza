@@ -8,8 +8,9 @@ My main programming language of choice for most of my hobby projects is C. But i
 - Python
 - C++
 - Rust
-- GO
+- Go
 - Lua
 - Typescript
 
 Please feel free to contact me via email at derpyzza@gmail.com, or on discord where i'm just @derpyzza :)
+Looking for embedded, systems or backend roles, remote OK :)
