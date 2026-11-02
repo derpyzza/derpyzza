@@ -3,7 +3,7 @@
 I'm a systems programmer who loves the low-level side of software development, such as compilers, embedded firmware, web backends, and game engines etc.
 I'm also an artist, and I make small games and drawings in my spare time :)
 
-Looking for embedded, systems or backend roles ( remote preferred, but open to relocation for the right role ). 
+Looking for embedded, systems or backend roles ( remote, with async preferred though not required ). 
 
 My main programming language of choice for most of my hobby projects is C. But I also have experience with the following languages: 
 - Python for small-scale scripting.
